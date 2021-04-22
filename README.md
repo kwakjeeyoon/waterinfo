@@ -1,1 +1,5 @@
-# waterinfo
+# waterinfo instance segmentation GUI
+
+## Installation
+--
+* 
