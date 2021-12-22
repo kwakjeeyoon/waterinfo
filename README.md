@@ -1,6 +1,4 @@
-# 한국수자원공사 댐 시설물 손상검출 SW 개발
-
-## waterinfo instance segmentation GUI
+# waterinfo instance segmentation GUI
 
 ### Installation
 * python 3.8.8
